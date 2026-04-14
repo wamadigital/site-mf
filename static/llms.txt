@@ -1,0 +1,23 @@
+# ManyFeed
+
+## About
+ManyFeed is a comprehensive review management platform designed for digital businesses in Brazil and Latin America. It enables users to collect, manage, display, and analyze customer reviews across multiple channels.
+
+## Core Features
+- **Coleta (Collection):** Automated review collection via email and WhatsApp after each purchase, with smart follow-ups and pre-built message templates.
+- **Gestão (Management):** Unified dashboard to view, filter, and respond to reviews from all platforms. Includes AI-powered quick responses and negative review alerts.
+- **Exibição (Display):** Responsive, customizable widgets (carousel, grid, list) for embedding reviews on websites and landing pages with a single line of code.
+- **Integrações (Integrations):** Syncs with Google Reviews, Hotmart, Kiwify, and more. Supports CSV bulk import and offers an open API.
+- **Resultados (Results):** Conversion metrics dashboard, per-widget conversion rates, exportable reports, and before/after comparisons.
+
+## Target Audience
+Digital product creators, e-commerce stores, SaaS companies, course creators, and agencies looking to leverage social proof for higher conversion rates.
+
+## Tech Stack
+React, TypeScript, Tailwind CSS, Vite
+
+## URL
+https://billowing-rice-5144.dev.animaapp.io
+
+## Contact
+Visit the website for more information.

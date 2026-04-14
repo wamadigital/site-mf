@@ -1,0 +1,21 @@
+{
+  "name": "ManyFeed",
+  "short_name": "ManyFeed",
+  "description": "Plataforma completa para coletar, gerenciar e exibir avaliações.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "https://c.animaapp.com/mnxsvuft69auLT/img/generated-image-1776125443770.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://c.animaapp.com/mnxsvuft69auLT/img/generated-image-1776125443770.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
